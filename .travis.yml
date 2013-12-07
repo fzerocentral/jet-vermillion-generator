@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+- '0.10'
+- '0.8'
+deploy:
+  provider: npm
+  email: rokusu@gmail.com
+  api_key:
+    secure: kF51jfVFQYvik5uBXqWxQRqGDWqESc1hO+hH2suC5uOw65/+B/rj9IZbKpw14bSXOp5ru5FS9vryl0ZKuf/maLyZIm0bMplSfnmBthsvnyoO0FFwUspqGzgMmJ9jnmaG6RckLf/uGz5/lzk3hlWd0MgYMiK5dQwdiUwu9rWnYMU=
+  on:
+    tags: true
+    repo: fzerocentral/jet-vermillion-generator

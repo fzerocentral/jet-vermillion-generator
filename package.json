@@ -1,0 +1,30 @@
+{
+  "name": "jet-vermillion-generator",
+  "version": "0.1.0",
+  "main": "lib/jet-vermillion-generator.js",
+  "description": "Generates codes to unlock Jet Vermillion in F-Zero Maximum Velocity",
+  "homepage": "http://fzerocentral.org",
+  "bugs": "https://github.com/locks/jet-vermillion-generator/issues",
+  "author": {
+    "name": "Ricardo Mendes",
+    "email": "rokusu@gmail.com",
+    "url": "http://locks.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/locks/jet-vermillion-generator"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.7.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.0",
+    "load-grunt-tasks": "~0.2.0",
+    "time-grunt": "~0.2.0",
+    "jshint-stylish": "~0.1.3"
+  }
+}
