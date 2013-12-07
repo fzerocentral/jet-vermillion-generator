@@ -4,7 +4,7 @@
   "main": "lib/jet-vermillion-generator.js",
   "description": "Generates codes to unlock Jet Vermillion in F-Zero Maximum Velocity",
   "homepage": "http://fzerocentral.org",
-  "bugs": "https://github.com/locks/jet-vermillion-generator/issues",
+  "bugs": "https://github.com/fzerocentral/jet-vermillion-generator/issues",
   "author": {
     "name": "Ricardo Mendes",
     "email": "rokusu@gmail.com",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/locks/jet-vermillion-generator"
+    "url": "https://github.com/fzerocentral/jet-vermillion-generator"
   },
   "licenses": [
     {

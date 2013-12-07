@@ -1,4 +1,4 @@
-# jet-vermillion-generator [![Build Status](https://secure.travis-ci.org/locks/jet-vermillion-generator.png?branch=master)](http://travis-ci.org/locks/jet-vermillion-generator)
+# jet-vermillion-generator [![Build Status](https://secure.travis-ci.org/fzerocentral/jet-vermillion-generator.png?branch=master)](http://travis-ci.org/fzerocentral/jet-vermillion-generator)
 
 Generates codes to unlock Jet Vermillion in F-Zero Maximum Velocity
 
@@ -7,7 +7,7 @@ Install the module with: `npm install jet-vermillion-generator`
 
 ```javascript
 var jet-vermillion-generator = require('jet-vermillion-generator');
-jet-vermillion-generator.awesome(); // "awesome"
+jet-vermillion-generator.generate("LOCKS"); // "W-XX9NV8A+30"
 ```
 
 ## Documentation
