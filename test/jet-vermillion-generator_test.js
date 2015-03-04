@@ -37,5 +37,15 @@ exports.jet_vermillion_generator = {
     test.equal(jet_vermillion_generator.generate('RENAN'), 'M-AFY9V8A-30', 'should be M-AFY9V8A-30.');
 
     test.done();
+  },
+  'is case-insensitive': function(test) {
+    var uppercase = jet_vermillion_generator.generate('LOCKS');
+    var lowercase = jet_vermillion_generator.generate('locks');
+
+    test.equal(uppercase, lowercase,      'should be W-XX9NV8A+30.');
+    test.equal(uppercase, 'W-XX9NV8A+30', 'should be W-XX9NV8A+30.');
+    test.equal(lowercase, 'W-XX9NV8A+30', 'should be W-XX9NV8A+30.');
+
+    test.done();
   }
 };
