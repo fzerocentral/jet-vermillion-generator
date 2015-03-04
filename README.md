@@ -1,4 +1,9 @@
-# jet-vermillion-generator  [![Build Status](https://secure.travis-ci.org/fzerocentral/jet-vermillion-generator.png?branch=master)](http://travis-ci.org/fzerocentral/jet-vermillion-generator) [![Code Climate](https://codeclimate.com/github/fzerocentral/jet-vermillion-generator.png)](https://codeclimate.com/github/fzerocentral/jet-vermillion-generator) [![Version](http://allthebadges.io/fzerocentral/jet-vermillion-generator/badge_fury.png)](http://allthebadges.io/fzerocentral/jet-vermillion-generator/badge_fury) 
+# jet-vermillion-generator
+
+[![Version](http://allthebadges.io/fzerocentral/jet-vermillion-generator/badge_fury.png)](http://allthebadges.io/fzerocentral/jet-vermillion-generator/badge_fury)
+[![Build Status](https://secure.travis-ci.org/fzerocentral/jet-vermillion-generator.png?branch=master)](http://travis-ci.org/fzerocentral/jet-vermillion-generator)
+[![Code Climate](https://codeclimate.com/github/fzerocentral/jet-vermillion-generator.png)](https://codeclimate.com/github/fzerocentral/jet-vermillion-generator)
+
 Generates codes to unlock Jet Vermillion in F-Zero Maximum Velocity
 
 ## Getting Started
