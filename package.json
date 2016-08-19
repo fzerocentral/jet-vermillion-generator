@@ -2,6 +2,7 @@
   "name": "jet-vermillion-generator",
   "version": "0.1.1",
   "main": "lib/jet-vermillion-generator.js",
+  "files": "lib/",
   "description": "Generates codes to unlock Jet Vermillion in F-Zero Maximum Velocity",
   "homepage": "http://fzerocentral.org",
   "bugs": "https://github.com/fzerocentral/jet-vermillion-generator/issues",
